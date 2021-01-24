@@ -29,28 +29,3 @@ for (const day in dias3){
 
 var numero1 = 5; //usar 'var' y no const, sinó el incremento ++ no cambia el numero
 var numero2 = 8;
-
-/*
-if (numero1 < numero2){
-    alert ("El número1 no es mayor que el numero2");
-};
-*/
-
-/*
-if (numero1 < 0 || numero1 !=0){
-    alert ("El número1 es negativo o distinto de cero");
-};
-*/
-
-
-/*
-if (++numero1 != numero2){
-    alert ("Si incrementas en una unidad el valor de número1 no lo hace mayor o igual que número2");
-};
-*/
-
-/*
-if(++numero1 < numero2) {
-    alert("Incrementar en 1 unidad el valor de numero1 no lo hace mayor o igual que numero2");
-  }
-*/
