@@ -1,3 +1,9 @@
+//no olvidar el 'use strict'
+'use strict';
+
+//prueba random de funcionamiento
+console.log ('hola bona nit')
+
 class Factura {
   constructor(cliente, elementos){
     this.cliente = cliente;
